@@ -8,17 +8,9 @@
     "start": "app.js",
     "dev": "nodemon app.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://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@github.com/edugichuki/wiki-API.git"
-  },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/edugichuki/wiki-API/issues"
-  },
-  "homepage": "https://github.com/edugichuki/wiki-API#readme",
   "dependencies": {
     "body-parser": "^1.20.2",
     "dotenv": "^16.3.1",

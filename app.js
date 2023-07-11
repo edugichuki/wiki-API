@@ -17,6 +17,7 @@ app.use(
 );
 app.use(express.static("public"));
 
+//? "mongodb://127.0.0.1:27017/wikiDB"
 mongoose
   .connect(process.env.MONGO_URI, {
     useNewUrlParser: true,
